@@ -1,0 +1,31 @@
+body {
+    padding: 30px;
+    margin: 0px;
+}
+
+.header {
+    background-image: url(pictures/pic1.JPG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 75px;
+}
+
+.button-row {
+    padding-top: 21px
+}
+
+.button {
+    text-align: left;
+}
+
+.buttons {
+    text-align: right;
+    color: slategrey;  
+
+}
+
+h1 {
+    text-align: center;
+    font-style: italic;
+    font-size: 30px;
+}

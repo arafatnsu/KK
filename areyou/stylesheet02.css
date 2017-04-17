@@ -6,25 +6,26 @@
     text-align: center;
     background: lightgray;
     font-weight: bold;
-
-}
+    }
 
 
 a {
-        color: black;
-        text-decoration: none;
-        
-}
+    color: black;
+    text-decoration: none;
+        }
 
 .nav-pills > li > a:hover {
     color:snow;
     text-decoration: none;
-     background: red;
-     border-radius: 0;
-}
+    background: red;
+    border-radius: 0;
+    }
+
+
 .nav-pills>li>a {
     border-radius: 0px;
-}
+    }
+
  
  .nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
      background-color: red;

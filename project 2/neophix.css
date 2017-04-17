@@ -1,0 +1,255 @@
+.neo_first {
+    background-image: url(http://mr-creative.net/wp-content/uploads/2016/11/fundo.jpg);
+    width: 100%;
+    height: auto;
+    background-size: cover;
+    display: block;
+}
+
+#first_img {
+    position: absolute !important;
+    width:150px;
+    left: 0px;
+}
+
+@media screen and (min-width: 1344px) {
+    .neo_first, 
+    .third_part, 
+    .fourth_part {
+    padding: 0px 270px;
+    }
+
+    
+}
+
+@media screen and (min-width: 700px) {
+    
+}
+
+@media screen and (min-width: 1200px) {
+    
+}
+
+.first_list>li>a {
+    margin-top: 30px;
+    margin-left: 4px;
+    margin-right: 0px;
+    padding: 0px 0px;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+.login_area a{
+    margin-right: 25px ! important;
+    margin-top: 39px ! important;
+    color: #FFFFFF;   
+}
+
+.first_list>.login_area>a:hover {
+    text-decoration: underline !important;
+}
+
+.facebook_area i {
+    background: #3B5998;
+    color: white;
+    font-size: 23px;
+}
+
+.twitter_area i {
+    background: #00aced;
+    color: white;
+    font-size: 23px;
+}
+
+.google_area i {
+    background: #d34836;
+    color: white;
+    margin-right: 10px ! important;
+    font-size: 23px;
+}
+
+.top_brand {
+    margin-top: 12px;
+    margin-bottom: 10px;
+}
+
+.home_area>li>a {
+    font-family: monospace;
+    padding: 5px 14px;
+    margin-left: 6px;
+    border-radius: 0px;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 35px;
+}
+
+.home_area>li>a:focus, 
+.home_area>li>a:hover {
+    text-decoration: underline;
+    background-color: #51311e;
+}
+
+.first_list .head {
+    display: inline-block;
+}
+
+.first_list .head a:hover {
+    background: none !important;
+}
+
+#caret_down {
+    color: lightsteelblue;
+    font-size: 14px;
+    padding-left: 6px;
+}
+
+#second_img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    display: block;
+    padding-top: 5%;
+}
+
+.get_in_touch {
+    color: white;
+    margin-top: 100px;
+    text-align: left;
+}
+
+#middle_desc {
+    font-size: 58px;
+    font-family: monospace;
+    text-align: left;
+    line-height: 60px;
+    font-weight: bold;
+    padding-right: 14px;
+    padding-left: 0px;
+}
+
+#middle_para {
+    font-size: 17px;
+    font-family: sans-serif;
+    text-align: left;
+    margin-top: 20px;
+}
+
+.image_details {
+    background-color: #242424;
+    overflow: hidden;
+}
+
+.third_image {
+        padding-top: 25px;
+        padding-left: 25px;
+        padding-right: 25px;
+}
+
+.third_part {
+    background-color: #000;
+    padding-bottom: 30px; 
+}
+
+.description_img {
+    font-size: 20px;
+    font-family: monospace;
+    font-weight: bold;
+    color: white;
+    padding-left: 10px;
+    padding-top: 10px;
+    margin: 0px;
+    padding-bottom: 9px;
+}
+
+.description_link {
+    color: white;
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 18px;
+    float: right;
+    background-color: #0072bb;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 3px;
+    padding-bottom: 2px;
+    margin-bottom: 12px;
+}
+
+.caret_edit {
+    color: #6fa8da;
+}
+
+.description_link:focus, 
+.description_link:hover {
+    color: #242424;
+    text-decoration: none;
+    background-color: white;
+}
+
+.fourth_part {
+    background-color: #242424;
+    padding-bottom: 70px;
+}
+
+#fourth_h {
+    font-size: 45px;
+    text-align: center;
+    color: white;
+    font-family: monospace;
+    padding-top: 27px;
+    font-weight: bold;
+}
+
+#fourth_p {
+    text-align: center;
+    color: white;
+    font-family: monospace;
+    font-size: 17px;
+    font-weight: bold;
+    padding-bottom: 30px;
+}
+
+.fifth_img {
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-bottom: 30px;
+}
+
+.fifth_p {
+    color: white;
+    font-family: monospace;
+    font-size: 17px;
+    padding-bottom: 10px;
+}
+
+.description_link_two {
+    color: white;
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 18px;
+    background-color: #0072bb;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 3px;
+    padding-bottom: 2px;
+    margin-bottom: 12px;
+}
+
+.description_link_two:focus, 
+.description_link_two:hover {
+    color: #242424;
+    text-decoration: none;
+    background-color: white;
+}
+
+.style1 {
+    margin-top: 5em;
+    margin-bottom: 5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-width: 1px solid;
+    color: #5d5d5d;
+}

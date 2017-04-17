@@ -1,0 +1,113 @@
+
+.header {
+    background-image: url(pictures/pic1.JPG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 175px;
+    } 
+
+
+p1 {
+    font-size: 36px;
+    color: darkred;
+    padding: 0px;
+
+}
+
+.nav-pills > li {
+    list-style-type: none;
+    width:15%;
+    display: inline-block;
+    min-height: 15px;
+    text-align: center;
+    background: lightgray;
+    font-weight: bold;
+    }
+
+
+a {
+    color: black;
+    text-decoration: none;
+        }
+
+.nav-pills > li > a:hover {
+    color:snow;
+    text-decoration: none;
+    background: red;
+    border-radius: 0;
+    }
+
+
+.nav-pills>li>a {
+    border-radius: 0px;
+    padding-right: 0px;
+    }
+
+ 
+ .nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+     background-color: red;
+ }
+
+
+ .service {
+    background: red;
+    }
+
+
+h3 {
+    text-align: center;
+    color: white;
+    font-size: 36px;
+    }
+
+
+h4 {
+    color: white;
+    text-align: center;
+    }
+
+
+    i {
+    margin-left: 33%;
+    color: red;
+    background-color: white;
+    border-radius: 50%;
+    border: 1x solid grey;
+    padding:10px;
+    }
+
+
+p4 {
+    color: white;
+    text-align: center;
+    }
+
+
+.btn-danger {
+   margin: 30px;
+   color: white;
+   background: red;
+   margin-left: 25%;
+   margin-bottom: 80px;
+    }
+
+
+.btn-group-vertical>.btn, .btn-group-vertical>.btn-group, .btn-group-vertical>.btn-group>.btn {
+    display: block;
+    float: none;
+    width: 100%;
+    max-width: 100%;
+    background: white;
+    text-align: left;
+    }
+
+
+h5 {
+    font-size: 16px;
+    font-weight: bold;
+    }
+
+
+p7 {
+
+    }

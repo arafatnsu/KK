@@ -1,9 +1,41 @@
-.Service {
+.service {
     background: red;
-}
+    }
+
 
 h3 {
     text-align: center;
     color: white;
-}
+    font-size: 36px;
+    }
 
+
+h4 {
+    color: white;
+    text-align: center;
+    }
+
+
+    i {
+    margin-left: 33%;
+    color: red;
+    background-color: white;
+    border-radius: 50%;
+    border: 1x solid grey;
+    padding:10px;
+    }
+
+
+p4 {
+    color: white;
+    text-align: center;
+    }
+
+
+.btn-danger {
+   margin: 30px;
+   color: white;
+   background: red;
+   margin-left: 25%;
+   margin-bottom: 80px;
+    }
